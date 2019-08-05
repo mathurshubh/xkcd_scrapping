@@ -1,4 +1,4 @@
-# xkcd scrapping
+# xkcd web scrapping
 
 Xkcd is a comic website. Visit here for some geeky fun: https://xkcd.com/
 
